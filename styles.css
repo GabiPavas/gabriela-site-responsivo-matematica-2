@@ -1,0 +1,29 @@
+@import url(styles/header.css);
+
+:root {
+    --cor-de-fundo: #87CEEB; /* Azul claro */
+    --cor-cabecalho: #FFFFFF;
+    --cor-texto: #333;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: var(--cor-texto);
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #005f99; /* Azul escuro */
+}
+
+.sobre, .modalidades, .contato {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
