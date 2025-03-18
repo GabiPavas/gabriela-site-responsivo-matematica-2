@@ -18,12 +18,12 @@
 .container.titulo {
     font-size: 1.8em;
     font-weight: bold;
-    color: #005f99;
+    color: #0467a5;
 }
 
 .container.frase {
     font-style: italic;
-    color: #666;
+    color: #615e5e;
 }
 
 /* Responsividade */
